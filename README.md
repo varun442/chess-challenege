@@ -35,7 +35,7 @@ src/
 1. **Clone the repo**
 
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/varun442/chess-challenege.git
    cd chess-challenge
    ```
 2. **Install dependencies**
