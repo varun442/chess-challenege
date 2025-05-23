@@ -83,5 +83,12 @@ src/
    * **`<Board>`**: Loops rows/columns, renders `<Square>` for each coordinate.
    * **`<Square>`**: Uses Unicode chess glyphs; applies CSS classes for light/dark, selected, highlight.
    * **`<MoveList>`**: Renders ordered list; odd/even coloring for white vs. black moves.
+5. **Images**
+
+    ![image](https://github.com/user-attachments/assets/2da2d38c-a634-4a15-80df-d83e559b184e)
+    ![image](https://github.com/user-attachments/assets/f0379929-82dc-49f7-bce9-6ee56c9c2c03)
+    ![image](https://github.com/user-attachments/assets/908b52d3-0b3a-43c6-91c7-a3b438ec47d4)
+
+
 
 
